@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Data-Driven Decision Making",
+    "description": "This course covers the principles of data-driven decision making. It includes topics such as data analysis techniques, statistical methods, and decision-making frameworks.",
+    "duration": "6 weeks",
+    "level": "Intermediate",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Machine Learning",
+    "description": "In this course, you will learn the fundamentals of machine learning, including supervised and unsupervised learning techniques, model evaluation, and practical applications.",
+    "duration": "8 weeks",
+    "level": "Beginner",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "title": "Advanced Web Development",
+    "description": "This advanced course covers topics such as responsive design, server-side scripting, and web application security. It is designed for experienced web developers looking to enhance their skills.",
+    "duration": "10 weeks",
+    "level": "Advanced",
+    "price": 100
+  },
+  {
+    "id": 4,
+    "title": "Introduction to Data Science",
+    "description": "This course provides an introduction to data science, including data visualization, data wrangling, and data storytelling. It is designed for beginners with no prior experience in data science.",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "price": 100
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Development",
+    "description": "This course covers the principles of mobile app development, including user interface design, data storage, and app deployment. It is designed for beginners with no prior experience in app development.",
+    "duration": "8 weeks",
+    "level": "Beginner",
+    "price": 100
+  }
+]

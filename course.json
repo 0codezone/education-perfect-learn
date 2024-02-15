@@ -38,5 +38,45 @@
     "duration": "8 weeks",
     "level": "Beginner",
     "price": 100
+  },
+  {
+    "id": 6,
+    "title": "Advanced Data Analysis",
+    "description": "This advanced course covers topics such as data visualization, statistical modeling, and predictive analytics. It is designed for experienced data analysts looking to enhance their skills.",
+    "duration": "10 weeks",
+    "level": "Advanced",
+    "price": 100
+  },
+  {
+    "id": 7,
+    "title": "Introduction to Cybersecurity",
+    "description": "In this course, you will learn the fundamentals of cybersecurity, including network security, cryptography, and security policies. It is designed for beginners with no prior experience in cybersecurity.",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "price": 100
+  },
+  {
+    "id": 8,
+    "title": "Advanced Database Management",
+    "description": "This advanced course covers topics such as database design, data modeling, and database administration. It is designed for experienced database administrators looking to enhance their skills.",
+    "duration": "8 weeks",
+    "level": "Advanced",
+    "price": 100
+  },
+  {
+    "id": 9,
+    "title": "Introduction to Cloud Computing",
+    "description": "This course provides an introduction to cloud computing, including cloud deployment models, cloud service models, and cloud security. It is designed for beginners with no prior experience in cloud computing.",
+    "duration": "6 weeks",
+    "level": "Beginner",
+    "price": 100
+  },
+  {
+    "id": 10,
+    "title": "Advanced Software Engineering",
+    "description": "This advanced course covers topics such as software architecture, software testing, and software maintenance. It is designed for experienced software engineers looking to enhance their skills.",
+    "duration": "10 weeks",
+    "level": "Advanced",
+    "price": 100
   }
 ]
